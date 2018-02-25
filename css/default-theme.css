@@ -1,0 +1,23 @@
+/**** Start Default Theme ****/
+
+
+
+.option-box .color-option{ 
+    border: 5px solid #cc1818;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus,.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,.carousel-indicators .active ,.option-box  .gear-check {
+    background-color:#cc1818;
+}
+.navbar-brand span,.about h1 span,.testimonials span,
+.testimonials span
+{color: #cc1818;}
+.dropdown-menu{
+    border-top: 2px solid #cc1818; 
+}
+.testimonials .carousel-indicators li.active {
+    border: 3px solid #cc1818;
+}
+.footer .copyright span ,.footer h3{
+    color: #DF0A0A;
+}
+/**** End Default Theme ****/
